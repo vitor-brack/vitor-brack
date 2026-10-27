@@ -15,6 +15,7 @@ Estudo Engenharia de Software na Uninter e programo principalmente em Java. Proc
 - **[conversor-qgis-autocad](https://github.com/vitor-brack/conversor-qgis-autocad):** programa para Windows, em Python, que converte camadas do QGIS em desenhos do AutoCAD e vice-versa.
 - **[SafeMode](https://github.com/vitor-brack/SafeMode):** app Android que bloqueia os aplicativos escolhidos quando o celular sai de uma área marcada no mapa.
 - **[Axis](https://github.com/vitor-brack/Axis):** sistema web para reservar espaços em coworkings, com Spring Boot e MySQL.
+- **[Lithify](https://github.com/vitor-brack/Lithify):** app para Windows, em Python e Tkinter, que comprime as fotos de laudos técnicos no Word, antes de inseri-las ou já dentro do `.doc` e do `.docx`. Num laudo real, o arquivo caiu de 689 MB para 73 MB.
 - **[NetSpeedBar](https://github.com/vitor-brack/NetSpeedBar):** mostra a velocidade da internet na barra de tarefas do Windows 11. Tem instalador pronto para baixar.
 
 Meu primeiro repositório é de 2021, um controle financeiro em Java. Desde então passei por PHP, JSP, Swing e Android até chegar a esses projetos.
